@@ -1,0 +1,22 @@
+{
+    "name": "FikraCampsClinc",
+    "version": "1.0.0",
+    "description": "",
+    "main": "index.js",
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1",
+        "start": "parcel index.html"
+    },
+    "keywords": [],
+    "author": "",
+    "license": "ISC",
+    "dependencies": {
+        "babel-core": "^6.26.3",
+        "babel-preset-env": "^1.7.0",
+        "babel-preset-react": "^6.24.1",
+        "evergreen-ui": "^4.7.1",
+        "firebase": "^5.5.9",
+        "react": "^16.6.3",
+        "react-dom": "^16.6.3"
+    }
+}
